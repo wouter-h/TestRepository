@@ -2,9 +2,10 @@ import java.util.*;
 
 public class HelloWorld{
 	
-	public void function() {
+	public void uselessFunction() {
 		int n = 3 + 3;
-		System.out.println("I am a function");
+		int finalResult = n;
+		System.out.println("I am a useless function");
 	}
 	
 	public static main(String[] args){
