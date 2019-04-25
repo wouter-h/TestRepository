@@ -2,8 +2,8 @@ import java.util.*;
 
 public class HelloWorld{
 	
-	public void uselessFunction() {
-		System.out.println("I am a useless function");
+	public void function() {
+		System.out.println("I am a function");
 	}
 	
 	public static main(String[] args){
